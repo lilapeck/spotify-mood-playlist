@@ -47,6 +47,12 @@ from a user-scoped endpoint to `/me/playlists`.
    expect — that's the sequential Last.fm tag lookups respecting its
    free-tier rate limit.
 
+## Video demo
+
+
+https://github.com/user-attachments/assets/92f250e3-b8dd-4ddb-ade8-8539b257f723
+
+
 ## Possible extensions
 
 - Swap the keyword lexicon for an LLM call that maps mood text to target
